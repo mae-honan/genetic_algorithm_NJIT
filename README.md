@@ -1,1 +1,1 @@
-# genetic_algorithm_NJIT
+# genetic_algorithm_text-simulation
