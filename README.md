@@ -1,1 +1,1 @@
-# genetic_algorithm_text-simulation
+# genetic algorithm simulation using randomized and target phrases
